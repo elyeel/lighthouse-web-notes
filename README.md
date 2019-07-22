@@ -6,3 +6,7 @@ This repository contains all of the notes taken by Risyardi for the Lighthouse L
 Code by [Ris](https://github.com/elyeel) for the [Lighthouse Lab](https://www.lighthouselabs.ca/) Web Development BootCamp
 https://github.com/elyeel/lighthouse-web-notes
 
+## Table of Contents
+
+* Week 1
+  * [Day 1](/Week_1/Day_1)
